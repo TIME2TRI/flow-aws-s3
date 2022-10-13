@@ -1,5 +1,5 @@
 {
-    "name": "flownative/aws-s3",
+    "name": "time2tri/aws-s3",
     "type": "neos-package",
     "description": "This Flow package allows you to store assets (resources) in Amazon's S3",
     "authors": [
